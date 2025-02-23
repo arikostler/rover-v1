@@ -1,1 +1,3 @@
 Rover project created around the Darkwater 640 motor controller board. Darkwater has since appeared to completely change their business model and removed their old code repositories so this code was how I used their library and someday I will see if I can use the Adafruit motor control library in its place since the board was based on the Adafruit board.
+
+THE CODE IN THE darkwater_python_640 FOLDER IS NOT MINE. BUT SINCE THE DARKWATER REPO IS GONE, I AM UNABLE TO LINK DIRECTLY TO IT.
