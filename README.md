@@ -1,0 +1,1 @@
+Rover project created around the Darkwater 640 motor controller board. Darkwater has since appeared to completely change their business model and removed their old code repositories so this code was how I used their library and someday I will see if I can use the Adafruit motor control library in its place since the board was based on the Adafruit board.
